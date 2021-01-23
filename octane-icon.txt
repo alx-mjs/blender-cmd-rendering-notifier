@@ -1,0 +1,26 @@
+-----------------------------------------
+      Octane Server Process Monitor
+-----------------------------------------
+                 `oms-                  
+                /mMMMMo                 
+              .hMMMMM+                  
+             +NMMMMM+                   
+   ``      `yMMMMMMm``.-/++++++/:-..``` 
+:ohmh`     yMMMMMMMmhmMMMMMMMMMMMMMMNmd.
++MMMMd-   +MMMMMMMMMMMMMMMMMMMMMMMMMMMN 
+ yMMMMNs.`mMMMMMMMNNNNMMMMMMMMmys+////: 
+ `dMMMMMNhMMMMMNy/-..-/yNMMMMMh:`       
+  .mMMMMMMMMMMd.        .dMMMMMMd:      
+   .dMMMMMMMMM.          .MMMMMMMMy`    
+    `yMMMMMMMM.          .MMMMMMMMMd.   
+      :dMMMMMMd-        -dMMMMMMMMMMm.  
+       `:hMMMMMNy/----/yNMMMMMhNMMMMMd` 
+ /+//++shmMMMMMMMMNNNNMMMMMMMm .sNMMMMy 
+`NMMMMMMMMMMMMMMMMMMMMMMMMMMM/   -dMMMM/
+.dmNMMMMMMMMMMMMMMmhmMMMMMMMy     `hmho:
+ ```..-:/+++++/:-.``mMMMMMMs`      ``   
+                   oMMMMMN/             
+                  oMMMMMh.              
+                 oMMMMm:                
+                  -sm+              
+-----------------------------------------
